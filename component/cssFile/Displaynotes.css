@@ -1,0 +1,49 @@
+.trashnoted{
+
+}
+.createnotedisplay{
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin-left:14%;
+    width:70%;
+    margin-top: 3%;
+   
+}
+.cards{
+  padding: 16px;
+  margin-top: 3%;
+  margin-left: 35%;
+
+}
+
+.moren{
+  margin-left: 70%;
+  margin-top: -8%;
+}
+.reminderIconn{
+  margin-left:0%;
+  margin-top: -7%;
+}
+
+.imageIconn{
+  margin-left: 25%;
+  margin-top: -10%;
+}
+.colorn{
+  margin-left:18%;
+  margin-top: -10%;
+}
+.archieven{
+  margin-left: 38%;
+  margin-top: -11%;
+}
+
+.addpersionn{
+  margin-left:10%;
+  margin-top: -9%;
+}
+.closen{
+  margin-left:80%;
+  margin-top: -8;
+}

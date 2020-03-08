@@ -1,0 +1,50 @@
+.createnote{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 106px;
+    align-content: center;
+    flex-direction: column;
+    margin-right: 10%;
+    
+}
+.paper{
+    width: 550px;
+    position:relative;
+    margin:auto;
+    /* height: 20%; */
+    
+}
+.checkbox{
+    margin-right:-75%;
+    margin-top: -9.5%;
+}
+.inserImg1{
+    margin-right:-85%;
+    margin-top: -8%;
+}
+.more{
+    margin-right: -50%;
+    margin-top: -8%;
+}
+.reminderIcon{
+    margin-right: 85%;
+    margin-top: -7%;
+}
+
+.imageIcon{
+    margin-right: 70%;
+    margin-top: -10%;
+}
+.color{
+    margin-right: 55%;
+    margin-top: -9%;
+}
+.archieve{
+    margin-right: 41%;
+    margin-top: -9%;
+}
+.addpersion{
+    margin-right:25%;
+    margin-top: -9%;
+}
